@@ -1,0 +1,6 @@
+{
+  "name": "NETHAGA Pro Trading Hub",
+  "description": "Black and gold ICT market analysis workstation powered by Biquote live ticks and OHLC candles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
